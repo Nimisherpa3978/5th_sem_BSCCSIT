@@ -1,0 +1,174 @@
+🧩 Brainstorming Map: SAD
+(5th Sem BSc CSIT – Tribhuvan University, Nepal)
+Big picture first 👇
+
+SAD = Understanding → Analyzing → Designing → Validating a system
+
+
+1️⃣ Introduction to Systems & SAD
+
+What is a system?
+Types of systems (open, closed, manual, computerized)
+System analyst role
+Why SAD is important before development
+
+💡 Brainstorm prompt:
+
+“Why do many software projects fail even with good programmers?”
+
+
+2️⃣ System Development Life Cycle (🔥 Core Topic)
+
+
+Planning
+
+
+Analysis
+
+
+Design
+
+
+Implementation
+
+
+Maintenance
+
+
+Waterfall model
+
+
+Spiral model (concept)
+
+
+Prototyping approach
+
+
+💡 Brainstorm prompt:
+
+“Why is SDLC more about planning than coding?”
+
+
+3️⃣ Feasibility Study (High Exam Value)
+
+Technical feasibility
+Economic feasibility
+Operational feasibility
+Schedule feasibility
+Legal feasibility
+
+💡 Brainstorm prompt:
+
+“Why do we reject some projects even if the idea is good?”
+
+
+4️⃣ Requirement Analysis
+
+Functional requirements
+Non‑functional requirements
+User requirements
+System requirements
+Requirement gathering techniques:
+
+Interview
+Questionnaire
+Observation
+Document analysis
+
+
+
+💡 Brainstorm prompt:
+
+“What happens if requirements are misunderstood?”
+
+
+5️⃣ Process Modeling (🔥 Very Important)
+
+Data Flow Diagram (DFD)
+
+Context diagram
+Level‑0, Level‑1 DFD
+Processes, data stores, data flows
+
+
+Rules for drawing DFD
+
+💡 Brainstorm prompt:
+
+“Why don’t DFDs show control flow or timing?”
+
+
+6️⃣ Data Modeling
+
+Entity Relationship Diagram (ERD)
+Entities, attributes, relationships
+Cardinality
+Primary key & foreign key
+
+💡 Brainstorm prompt:
+
+“Why is ERD important even before database creation?”
+
+
+7️⃣ System Design
+Logical Design
+
+What the system should do
+
+Physical Design
+
+
+How the system will be implemented
+
+
+Input design
+
+
+Output design
+
+
+Interface design
+
+
+💡 Brainstorm prompt:
+
+“Why is good input design critical for system accuracy?”
+
+
+8️⃣ System Implementation & Testing
+
+System conversion methods:
+
+Direct
+Parallel
+Pilot
+Phased
+
+
+Types of testing (concept)
+User training & documentation
+
+💡 Brainstorm prompt:
+
+“Why is parallel conversion safer but expensive?”
+
+
+9️⃣ System Maintenance & Evaluation
+
+Corrective maintenance
+Adaptive maintenance
+Perfective maintenance
+Post‑implementation review
+
+💡 Brainstorm prompt:
+
+“Why does a system need maintenance even if it works?”
+
+
+🔥 TU Exam‑Friendly Comparisons
+
+Logical vs Physical design
+Waterfall vs Prototyping model
+DFD vs ERD
+Manual vs Computerized system
+System analysis vs System design
