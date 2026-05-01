@@ -1,0 +1,143 @@
+🧪 Brainstorming Map: Simulation and Modelling
+(5th Sem BSc CSIT – Tribhuvan University, Nepal)
+Big picture 👇
+
+Modelling = Build the system
+Simulation = Run & analyze the system
+
+
+1️⃣ Introduction to Modelling & Simulation
+
+What is a system?
+What is a model?
+What is simulation?
+Purpose of simulation
+When simulation is preferred over real systems
+
+💡 Brainstorm prompt:
+
+“Why do we simulate traffic or weather instead of testing in real life?”
+
+
+2️⃣ Types of Models
+
+Physical models
+Mathematical models
+Logical / symbolic models
+Deterministic vs Stochastic models
+Static vs Dynamic models
+Discrete vs Continuous models
+
+💡 Brainstorm prompt:
+
+“Why are most real‑world systems stochastic?”
+
+
+3️⃣ System Characteristics
+
+Components of a system
+Entities
+Attributes
+Activities
+Events
+State of the system
+
+💡 Brainstorm prompt:
+
+“What causes a system state to change?”
+
+
+4️⃣ Discrete Event Simulation (🔥 Core Topic)
+
+Event‑driven simulation
+Event scheduling
+Simulation clock
+Event list
+Future Event List (FEL)
+
+💡 Brainstorm prompt:
+
+“Why does time jump from event to event in discrete simulation?”
+
+
+5️⃣ Continuous System Simulation
+
+Continuous change of state variables
+Differential equations (concept)
+Examples:
+
+Temperature change
+Population growth
+
+
+
+💡 Brainstorm prompt:
+
+“Why is continuous simulation harder than discrete simulation?”
+
+
+6️⃣ Simulation Models & Queuing Systems (🔥 Exam Favorite)
+
+Queuing system components:
+
+Arrival process
+Service mechanism
+Queue discipline
+
+
+Single‑server vs Multi‑server queues
+Performance measures:
+
+Waiting time
+Queue length
+System utilization
+
+
+
+💡 Brainstorm prompt:
+
+“Why do banks and hospitals use queuing models?”
+
+
+7️⃣ Random Numbers & Input Modeling
+
+Importance of randomness
+Random number generation
+Properties of random numbers
+Input data analysis (concept)
+
+💡 Brainstorm prompt:
+
+“Why does poor random number generation ruin simulations?”
+
+
+8️⃣ Simulation Output Analysis
+
+Replication
+Warm‑up period
+Statistical analysis of results
+Confidence intervals (concept)
+
+💡 Brainstorm prompt:
+
+“Why can’t we trust results from a single simulation run?”
+
+
+9️⃣ Verification & Validation
+
+Verification: “Are we building the model right?”
+Validation: “Are we building the right model?”
+Model credibility
+
+💡 Brainstorm prompt:
+
+“What happens if a model is correct but unrealistic?”
+
+
+🔥 TU Exam‑Friendly Comparisons
+
+Modelling vs Simulation
+Deterministic vs Stochastic models
+Discrete vs Continuous simulation
+Verification vs Validation
+Single‑server vs Multi‑server queue
