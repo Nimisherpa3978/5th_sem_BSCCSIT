@@ -1,0 +1,99 @@
+🌱 Brainstorming Map: Cryptography (TU – 5th Sem)
+Think of cryptography in clusters 👇
+1️⃣ Foundations & Core Ideas
+
+Why cryptography is needed (CIA triad: Confidentiality, Integrity, Authentication)
+Plaintext vs Ciphertext
+Encryption vs Decryption
+Key, Algorithm, and Security assumptions
+Kerckhoffs’s Principle
+
+💡 Brainstorm angle:
+
+“What happens if cryptography didn’t exist in today’s digital world?”
+
+
+2️⃣ Classical Cryptography (Easy Exam Favorites)
+
+Caesar Cipher
+Monoalphabetic Cipher
+Playfair Cipher
+Vigenère Cipher
+Transposition Cipher
+Weaknesses of classical ciphers
+
+💡 Brainstorm angle:
+
+“Why are classical ciphers insecure today, but still taught?”
+
+
+3️⃣ Modern Symmetric Cryptography
+
+Symmetric key concept
+DES (structure, why insecure now)
+AES (why it replaced DES)
+Block cipher vs Stream cipher
+Modes of operation (ECB, CBC – exam-oriented)
+
+💡 Brainstorm angle:
+
+“Why is key distribution the biggest problem in symmetric encryption?”
+
+
+4️⃣ Asymmetric (Public Key) Cryptography
+
+Public key vs Private key
+RSA (very important for TU)
+Key generation idea
+Encryption & Decryption concept
+Advantages and disadvantages
+
+💡 Brainstorm angle:
+
+“Why is RSA slower but still widely used?”
+
+
+5️⃣ Hash Functions & Integrity
+
+Hash function properties
+MD5, SHA family (focus on SHA-1 weaknesses)
+Message Integrity
+Password storage using hashing
+
+💡 Brainstorm angle:
+
+“Why do we hash passwords instead of encrypting them?”
+
+
+6️⃣ Digital Signatures & Authentication
+
+Digital signature concept
+Signing vs Verification
+Difference between encryption and digital signature
+Non-repudiation
+
+💡 Brainstorm angle:
+
+“How does a digital signature prove who sent the message?”
+
+
+7️⃣ Cryptography in Real Life (Very Scorable in Exams)
+
+HTTPS & SSL/TLS (conceptual)
+Online banking
+E‑commerce
+Email security
+Blockchain & cryptocurrency (basic idea only)
+
+💡 Brainstorm angle:
+
+“Where do you unknowingly use cryptography every day?”
+
+
+8️⃣ Common Exam‑Friendly Comparisons
+
+Symmetric vs Asymmetric encryption
+Encryption vs Hashing
+Hashing vs Digital Signature
+DES vs AES
+Classical vs Modern cryptography
