@@ -1,0 +1,162 @@
+🧠 Brainstorming Map: DAA
+(5th Sem BSc CSIT – Tribhuvan University, Nepal)
+Think of DAA as answering three big questions:
+
+✅ How does an algorithm work?
+✅ How fast is it?
+✅ How can we design better ones?
+
+
+1️⃣ Introduction to Algorithms
+
+What is an algorithm?
+Characteristics of a good algorithm
+Pseudocode vs actual code
+Importance of algorithm analysis
+
+💡 Brainstorm prompt:
+
+“Why do two programs solving the same problem perform differently?”
+
+
+2️⃣ Algorithm Analysis (🔥 Very Important)
+Time Complexity
+
+Best, Average, Worst case
+Asymptotic notations:
+
+Big‑O
+Big‑Ω
+Big‑Θ
+
+
+
+Space Complexity
+
+Auxiliary space
+Input space
+
+💡 Brainstorm prompt:
+
+“Why do we focus on growth rate instead of exact execution time?”
+
+
+3️⃣ Recurrence Relations
+
+Why recurrence relations are used
+Substitution method
+Iteration method
+Master Theorem (exam favorite)
+
+💡 Brainstorm prompt:
+
+“Why is recursion easier to write but harder to analyze?”
+
+
+4️⃣ Divide and Conquer Strategy
+
+Concept of divide → conquer → combine
+Algorithms:
+
+Binary Search
+Merge Sort
+Quick Sort
+
+
+
+💡 Brainstorm prompt:
+
+“Why is Merge Sort always O(n log n) but Quick Sort is not?”
+
+
+5️⃣ Greedy Algorithms
+
+Greedy choice property
+Optimal substructure
+Algorithms:
+
+Activity Selection
+Fractional Knapsack
+Huffman Coding
+Prim’s Algorithm
+Kruskal’s Algorithm
+
+
+
+💡 Brainstorm prompt:
+
+“Why does greedy work sometimes but fail in 0/1 Knapsack?”
+
+
+6️⃣ Dynamic Programming (High Concept Weight)
+
+Overlapping subproblems
+Optimal substructure
+Top‑down vs Bottom‑up
+Algorithms:
+
+Fibonacci
+Matrix Chain Multiplication
+Longest Common Subsequence (LCS)
+0/1 Knapsack
+
+
+
+💡 Brainstorm prompt:
+
+“How does DP trade space for time?”
+
+
+7️⃣ Backtracking
+
+Concept of exploring solution space
+State space tree
+Algorithms:
+
+N‑Queen
+Sum of Subsets
+Graph Coloring
+
+
+
+💡 Brainstorm prompt:
+
+“Why is backtracking powerful but slow?”
+
+
+8️⃣ Branch and Bound
+
+Difference from backtracking
+Bounding function
+Algorithms:
+
+Travelling Salesman Problem (TSP)
+0/1 Knapsack
+
+
+
+💡 Brainstorm prompt:
+
+“How does bounding help reduce unnecessary searches?”
+
+
+9️⃣ Graph Algorithms (Always Scorable)
+
+BFS & DFS
+Minimum Spanning Tree
+Shortest Path algorithms (concept)
+Applications of graph algorithms
+
+💡 Brainstorm prompt:
+
+“Why are graph problems everywhere in real life?”
+
+
+🔥 TU Exam‑Friendly Comparisons
+
+Greedy vs Dynamic Programming
+Divide & Conquer vs Dynamic Programming
+Backtracking vs Branch & Bound
+BFS vs DFS
+Merge Sort vs Quick Sort
+
