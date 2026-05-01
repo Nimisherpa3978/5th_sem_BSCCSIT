@@ -1,0 +1,142 @@
+🎧🖼️ Brainstorming Map: Multimedia Computing
+(5th Sem BSc CSIT – Tribhuvan University, Nepal)
+Think of Multimedia Computing as “how computers capture, store, process, compress, and present multiple media types together.”
+
+1️⃣ Introduction to Multimedia
+
+What is Multimedia?
+Components: Text, Image, Audio, Video, Animation
+Multimedia system characteristics
+Applications of multimedia
+
+💡 Brainstorm prompt:
+
+“Why is a YouTube video considered multimedia, not just video?”
+
+
+2️⃣ Multimedia Data Types
+🔹 Text
+
+Plain text vs formatted text
+Unicode concept
+
+🔹 Images
+
+Bitmap vs Vector images
+Resolution, pixels, color depth
+Image formats: JPEG, PNG, GIF
+
+🔹 Audio
+
+Analog vs Digital audio
+Sampling & quantization
+Audio formats: WAV, MP3
+
+🔹 Video
+
+Frames & frame rate
+Video formats: MP4, AVI
+
+💡 Brainstorm prompt:
+
+“Why does increasing resolution increase storage size so fast?”
+
+
+3️⃣ Multimedia Representation & Color Models
+
+RGB color model (most important)
+CMY / CMYK (printing concept)
+Grayscale
+Color depth
+
+💡 Brainstorm prompt:
+
+“Why do screens use RGB but printers use CMYK?”
+
+
+4️⃣ Image Compression (Very Important)
+
+Why compression is needed
+Lossless vs Lossy compression
+JPEG compression (concept)
+PNG compression idea
+
+💡 Brainstorm prompt:
+
+“Why can JPEG reduce file size so much but loses quality?”
+
+
+5️⃣ Audio Compression
+
+Why audio files are large
+MP3 compression concept
+Perceptual coding idea
+Bit rate and quality relation
+
+💡 Brainstorm prompt:
+
+“Why can humans not notice some audio loss?”
+
+
+6️⃣ Video Compression
+
+Why video needs heavy compression
+Spatial vs Temporal redundancy
+I‑frames, P‑frames, B‑frames (idea level)
+Video codecs (concept)
+
+💡 Brainstorm prompt:
+
+“Why is video streaming impossible without compression?”
+
+
+7️⃣ Multimedia Storage & Devices
+
+Storage requirements of multimedia
+CD, DVD, Blu‑ray (concept)
+Hard disk & cloud storage
+Capture devices:
+
+Camera
+Microphone
+Scanner
+
+
+
+💡 Brainstorm prompt:
+
+“Why is cloud storage ideal for multimedia content?”
+
+
+8️⃣ Multimedia Systems & Applications
+
+Multimedia databases
+Interactive multimedia
+E‑learning systems
+Gaming
+Virtual Reality (intro idea)
+
+💡 Brainstorm prompt:
+
+“Why is multimedia essential in modern education?”
+
+
+9️⃣ Multimedia Networking (Conceptual)
+
+Multimedia over networks
+Streaming vs downloading
+QoS (Quality of Service)
+Delay, jitter, bandwidth
+
+💡 Brainstorm prompt:
+
+“Why buffering is needed before a video plays?”
+
+
+🔥 TU Exam‑Friendly Comparisons
+
+Lossy vs Lossless compression
+Bitmap vs Vector images
+Analog vs Digital audio
+Streaming vs Downloading
+RGB vs CMYK
