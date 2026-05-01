@@ -1,0 +1,130 @@
+🌐 Brainstorming Map: Web Technology
+(5th Sem BSc CSIT – Tribhuvan University, Nepal)
+Think of Web Technology in layers + roles 👇
+
+1️⃣ Web Basics & Architecture
+
+What is the Web vs Internet
+Client–Server model
+Request–Response cycle
+URL, DNS, HTTP/HTTPS
+Stateless nature of HTTP
+
+💡 Brainstorm prompt:
+
+“What actually happens when you type www.google.com and press Enter?”
+
+
+2️⃣ HTML – Structure of the Web
+
+HTML5 structure
+Tags, attributes, elements
+Forms & input types
+Semantic HTML (header, nav, article, footer)
+Accessibility basics
+
+💡 Brainstorm prompt:
+
+“Why is semantic HTML important for SEO and screen readers?”
+
+
+3️⃣ CSS – Presentation & Layout
+
+Inline vs Internal vs External CSS
+Box model
+Flexbox vs Grid
+Responsive design
+Media queries
+
+💡 Brainstorm prompt:
+
+“How does responsive design change user experience on mobile?”
+
+
+4️⃣ JavaScript – Client-Side Scripting
+
+Role of JavaScript in web
+DOM manipulation
+Events & event handling
+Form validation
+Client-side vs Server-side scripting
+
+💡 Brainstorm prompt:
+
+“Why is JavaScript called the ‘brain’ of a web page?”
+
+
+5️⃣ Server-Side Technology (Conceptual Focus)
+
+Server-side scripting idea
+PHP / JSP / ASP.NET (concept level)
+Dynamic web pages
+Session & cookies
+Authentication concept
+
+💡 Brainstorm prompt:
+
+“Why can’t login systems work using only HTML & CSS?”
+
+
+6️⃣ Web Protocols & Security
+
+HTTP methods (GET, POST)
+HTTPS & SSL/TLS (concept)
+Cookies vs Sessions
+Web security threats:
+
+SQL Injection
+XSS
+CSRF (basic idea)
+
+
+
+💡 Brainstorm prompt:
+
+“Why is HTTPS mandatory for login pages?”
+
+
+7️⃣ Database Connectivity (High‑Value Topic)
+
+Why database is needed in web apps
+Client–Server–Database flow
+Basic CRUD concept
+Web app example: login, registration, profile
+
+💡 Brainstorm prompt:
+
+“What data does Facebook store vs compute dynamically?”
+
+
+8️⃣ Web Application Architecture
+
+Static vs Dynamic websites
+Multi‑tier architecture
+MVC concept (idea level)
+Frontend vs Backend
+
+💡 Brainstorm prompt:
+
+“Why are modern websites split into frontend and backend?”
+
+
+9️⃣ Emerging & Practical Concepts (Lightweight)
+
+Web APIs (concept)
+AJAX (why page doesn’t reload)
+Single Page Applications (idea)
+Web hosting & deployment basics
+
+💡 Brainstorm prompt:
+
+“Why does Gmail not reload the page every click?”
+
+
+🔥 TU Exam‑Favorite Comparisons
+
+Static vs Dynamic website
+Client-side vs Server-side scripting
+GET vs POST
+Cookies vs Sessions
+HTML vs CSS vs JavaScript
